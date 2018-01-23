@@ -2,12 +2,12 @@
 Pembelajaran Semester #2 Website Development, dimana pada pembelajaran ini adalah pengenalan management database dan menampilkannya kedalam  platform  website, dengan tujuan dasar kita akan mengelola data dari 2 sisi yang bebeda yaitu dari sisi `Website` dan `java Mobile Apps`, Serta tujuan akhir adalah siswa dapat mengembangkan aplikasinya dengan ide-ide dasarnya. Berikut Deskripsi Lengkap dari Mata Pelajaran `Mengelola Database & Website`:
 
 - `Deskripsi`<br>
-Mata Pelajaran ini adalah materi tambahan untuk mengelola data pada aplikasi android kita ketika, data yang hanya ditampilkan di module mobile apps, namun juga siswa mampu membangun data sehingga data dapat di gunakan di berbagai platform dengan kamampuan ini juga siswa memahami sistem teknologi alur data yang baik dan benar. Materi ini melingkupi:
-		- Memahami Dasar Web Server
-        - Mampu & Memahammi Pemrograman Website Dasar
-        - Mampu Mengambil Data dari Server Database dan di tampilkan ke Tampilan Website
-		- Mampu Mengelola & Menampilkan Database ke Website dengan Pemrograman PHP
-        - Memahami konsep dasar Jaringan sehingga dapat mengambil jalur data yang diinginkan
+Mata Pelajaran ini adalah materi tambahan untuk mengelola data pada aplikasi android kita ketika, data yang hanya ditampilkan di module mobile apps, namun juga siswa mampu membangun data sehingga data dapat di gunakan di berbagai platform dengan kamampuan ini juga siswa memahami sistem teknologi alur data yang baik dan benar. Materi ini melingkupi:<br>
+		- Memahami Dasar Web Server<br>
+        - Mampu & Memahammi Pemrograman Website Dasar<br>
+        - Mampu Mengambil Data dari Server Database dan di tampilkan ke Tampilan Website<br>
+		- Mampu Mengelola & Menampilkan Database ke Website dengan Pemrograman PHP<br>
+        - Memahami konsep dasar Jaringan sehingga dapat mengambil jalur data yang diinginkan<br>
         
 
 - `Tujuan Mata Pelajaran`<br>
