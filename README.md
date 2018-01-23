@@ -7,7 +7,8 @@ Mata Pelajaran ini adalah materi tambahan untuk mengelola data pada aplikasi and
 - Mampu & Memahammi `Pemrograman Website Dasar`<br>
 - Mampu Menangani `Database dengan CLI (Command Line Interface)`<br>
 - Mampu `Mengelola & Menampilkan Database ke Website` dengan `Pemrograman PHP`<br>
-- Memahami `konsep dasar jaringan` sehingga dapat mengambil `jalur` data yang diinginkan<br>
+- Memahami `konsep dasar jaringan` sehingga dapat mengambil `jalur` data yang diinginkan<br><br>
+Sketsa 1:
 ![pic2](https://github.com/septiyadii/Course-of-Website/blob/master/img/pic2.png)
         
 > Tujuan Mata Pelajaran<br>
