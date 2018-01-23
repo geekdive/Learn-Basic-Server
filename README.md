@@ -31,6 +31,13 @@ Total Nilai : 300/300*100 Nilai Asli: `100%`<br>
 ![pic1](https://github.com/septiyadii/Course-of-Website/blob/master/img/pic1.png)
 
 
+- `Persiapan Alat Praktikum`<br>
+Seperti biasa sebelum melakukan praktikum alangkah lebih baiknya kita harus tahu terlebih dahulu apa yang akan kita pelajari dan apa saja kebutuhan alat maupun material yang diperlukan ketika praktikum, nah dibawah ini adalah alat dan material kebutuhan untuk bahan praktikum mata pelajaran kita kali ini: <br>
+        - Download **Virtual Machine** di link [VirtualBox<br>](https://www.virtualbox.org/wiki/Downloads) (Linux, Windows or Mac)<br>
+        - Download **OS Server Linux Ubuntu** di link [Ubuntu Server 16.04.03 LTS<br>](https://www.ubuntu.com/download/server) (i836, arm64 & Etc)<br>
+        - 
+
+
 - Peraturan Kelas
 - Ketentuan Nilai
 - SAK (Satuan Ajar Kelas)
