@@ -3,11 +3,11 @@ Pembelajaran Semester #2 Website Development, dimana pada pembelajaran ini adala
 
 > Deskripsi<br>
 Mata Pelajaran ini adalah materi tambahan untuk mengelola data pada aplikasi android kita ketika, data yang hanya ditampilkan di module mobile apps, namun juga siswa mampu membangun data sehingga data dapat di gunakan di berbagai platform dengan kamampuan ini juga siswa memahami sistem teknologi alur data yang baik dan benar. Materi ini melingkupi:<br>
-- Memahami Dasar Web Server<br>
-- Mampu & Memahammi Pemrograman Website Dasar<br>
-- Mampu Mengambil Data dari Server Database dan di tampilkan ke Tampilan Website<br>
-- Mampu Mengelola & Menampilkan Database ke Website dengan Pemrograman PHP<br>
-- Memahami konsep dasar Jaringan sehingga dapat mengambil jalur data yang diinginkan<br>
+a. Memahami Dasar Web Server<br>
+b. Mampu & Memahammi Pemrograman Website Dasar<br>
+c. Mampu Mengambil Data dari Server Database dan di tampilkan ke Tampilan Website<br>
+d. Mampu Mengelola & Menampilkan Database ke Website dengan Pemrograman PHP<br>
+e. Memahami konsep dasar Jaringan sehingga dapat mengambil jalur data yang diinginkan<br>
         
 > Tujuan Mata Pelajaran<br>
 Setelah mengikuti mata pelajaran `Mengelola Database & Website` ini diharapkan siswa mampu mengelola Web Server, Memanfaatkan Teknologi Website untuk Menampilkan data, dan bertujuan untuk mengajarkan Data itu tidak selamanya static, namun dengan memahami konsep dasar ini siswa memiliki paradigman bahwa data itu bisa di buat Dinamis.
