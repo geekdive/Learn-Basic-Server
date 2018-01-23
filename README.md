@@ -27,7 +27,7 @@ Ujian Akhir Semester | Total 35 Buah + `Essay (12*5)` | Total Nilai `100`<br>
 Ujian Tengah Semester | Total 25 Buah + `Essay (16*5)` | Total Nilai `100`<br>
 Absensi Kehadiran | Masuk Full | Total Nilai `50`<br>
 Total Nilai : 300/300*100 Nilai Asli: `100%`
-**Contoh Kalkulasi:**
+**Contoh Kalkulasi:**<br>
 ![pic1](https://github.com/septiyadii/Course-of-Website/blob/master/img/pic1.png)
 
 
