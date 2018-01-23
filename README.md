@@ -17,7 +17,7 @@ Setelah mengikuti mata pelajaran `Mengelola Database & Website` ini diharapkan s
 - `Daftar Pustaka`<br>
 Berikut adalah daftar pustaka dari mata pelajaran `Mengelola Database & Website` Sehingga menjadi acuan untuk para siswa:<br>
         - [Modul Pemrograman Web S1 2015.pdf](https://github.com/septiyadii/Course-of-Website/blob/master/pustaka/Modul%20Pemrograman%20Web%20S1%202015.pdf)<br>
-        - [W3SCHOOL.COM](https://www.w3schools.com/html/default.asp)
+        - [Website Resmi Belajar di w3schools.com](https://www.w3schools.com/html/default.asp)
         
 
 - `Sistem Penilaian`<br>
