@@ -20,8 +20,13 @@ Berikut adalah daftar pustaka dari mata pelajaran `Mengelola Database & Website`
 - [Website Resmi Belajar di w3schools.com](https://www.w3schools.com/html/default.asp)
         
 ## **Sistem Penilaian**
-![penilaian](https://github.com/septiyadii/Course-of-Website/blob/master/img/penilaian.png)<br><br>
-![penilaian](https://github.com/septiyadii/Course-of-Website/blob/master/img/ketentuan.png)
+![penilaian](https://github.com/septiyadii/Course-of-Website/blob/master/img/penilaian.png)<br>
+**Ketentuan:**<br>
+**Penilaian Absensi:** Total `Masuk`:`Total Hari Masukx100`<br>
+**Penilaian Tugas:** Total `Laporan Tugas`:`Total Tugasx100`<br>
+**Penilaian UTS:** Total `Nilai Siswa`:`Total Nilai UTSx100`<br>
+**Penilaian UAS:** Total `Nilai Siswa`:`Total Nilai UASx100`<br>
+**Nilai Akhir:** Total `Keseluruhan Siswa`:`Total Keseluruhan Nilai/100`
 
 ## **Persiapan Alat Praktikum**
 Seperti biasa sebelum melakukan praktikum alangkah lebih baiknya kita harus tahu terlebih dahulu apa yang akan kita pelajari dan apa saja kebutuhan alat maupun material yang diperlukan ketika praktikum, nah dibawah ini adalah alat dan material kebutuhan untuk bahan praktikum mata pelajaran kita kali ini: <br>
