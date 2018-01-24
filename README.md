@@ -35,6 +35,9 @@ Seperti biasa sebelum melakukan `praktikum` alangkah lebih baiknya kita harus ta
 - Memiliki `Internet` Stabil <br>
 - Memiliki `Laptop / Komputer` Minimal Space `RAM 4GB` or Higher <br>
 
-## **Peraturan Kelas**
 ## **Ketentuan Nilai**
+Untuk `ketentuan nilai` ada beberapa kategori yaitu mengacu pada nilai yang didapatkan sesuai dengan penilaian itu sendiri `jika nilai akhir`:<br>
+- dibawah 75 (Mengulang)
+- diatas 75 (Lulus)
+
 ## **SAK (Satuan Ajar Kelas)**
