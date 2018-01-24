@@ -40,4 +40,10 @@ Untuk `ketentuan nilai` ada beberapa kategori yaitu mengacu pada nilai yang dida
 - dibawah 75 (Mengulang)
 - diatas 75 (Lulus)
 
-## **SAK (Satuan Ajar Kelas)**
+## **Linkup Materi Bahasan**
+Untuk materi ada pembahasan khusus dalam mata pelajaran kali ini, agar tidak melebar dan tidak meluas, dan apabila ingin di perdalam bisa di kembangkan sendiri, agar tujuan pembelajaran pada kelas X RPL tercapai pada target yang ditentukan:
+- HTML Basic
+- Pemrograman PHP
+- Pemrograman Database MySQL (CLI)
+- Mengelola Database & Menampilkan pada Website
+- CRUD (Create, Read, Update & Delete)
