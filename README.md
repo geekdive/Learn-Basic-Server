@@ -29,11 +29,11 @@ Berikut adalah daftar pustaka dari mata pelajaran `Mengelola Database & Website`
 **Nilai Akhir:** Total `Keseluruhan Siswa`:`Total Keseluruhan Nilai/100`
 
 ## **Persiapan Alat Praktikum**
-Seperti biasa sebelum melakukan praktikum alangkah lebih baiknya kita harus tahu terlebih dahulu apa yang akan kita pelajari dan apa saja kebutuhan alat maupun material yang diperlukan ketika praktikum, nah dibawah ini adalah alat dan material kebutuhan untuk bahan praktikum mata pelajaran kita kali ini: <br>
-- Download **Virtual Machine** di link [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (Linux, Windows or Mac)<br>
-- Download **OS Server Linux Ubuntu** di link [Ubuntu Server 16.04.03 LTS](https://www.ubuntu.com/download/server) (i836, arm64 & Etc)<br>
-- Memiliki Internet Stabil <br>
-- Memiliki Laptop / Komputer Minimal Space RAM 4GB or Higher <br>
+Seperti biasa sebelum melakukan `praktikum` alangkah lebih baiknya kita harus tahu terlebih dahulu apa yang akan kita pelajari dan apa saja kebutuhan alat maupun `material` yang diperlukan ketika praktikum, nah dibawah ini adalah alat dan material kebutuhan untuk bahan praktikum mata pelajaran kita kali ini: <br>
+- Download `Virtual Machine` di link [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (Linux, Windows or Mac)<br>
+- Download `OS Server Linux Ubuntu` di link [Ubuntu Server 16.04.03 LTS](https://www.ubuntu.com/download/server) (i836, arm64 & Etc)<br>
+- Memiliki `Internet` Stabil <br>
+- Memiliki `Laptop / Komputer` Minimal Space `RAM 4GB` or Higher <br>
 
 ## **Peraturan Kelas**
 ## **Ketentuan Nilai**
