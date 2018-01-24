@@ -25,8 +25,7 @@ Berikut adalah daftar pustaka dari mata pelajaran `Mengelola Database & Website`
 **Penilaian Absensi:** Total `Masuk`:`Total Hari Masukx100`<br>
 **Penilaian Tugas:** Total `Laporan Tugas`:`Total Tugasx100`<br>
 **Penilaian UTS:** Total `Nilai Siswa`:`Total Nilai UTSx100`<br>
-**Penilaian UAS:** Total `Nilai Siswa`:`Total Nilai UASx100`<br><br>
-
+**Penilaian UAS:** Total `Nilai Siswa`:`Total Nilai UASx100`<br>
 **Nilai Akhir:** Total `Keseluruhan Siswa`:`Total Keseluruhan Nilai/100`
 
 ## **Persiapan Alat Praktikum**
