@@ -21,7 +21,6 @@ Berikut adalah daftar pustaka dari mata pelajaran `Mengelola Database & Website`
         
 ## **Sistem Penilaian**
 ![penilaian](https://github.com/septiyadii/Course-of-Website/blob/master/img/penilaian.png)<br><br>
-![penilaian](https://github.com/septiyadii/Course-of-Website/blob/master/img/ketentuan.png)
 
 ## **Persiapan Alat Praktikum**
 Seperti biasa sebelum melakukan praktikum alangkah lebih baiknya kita harus tahu terlebih dahulu apa yang akan kita pelajari dan apa saja kebutuhan alat maupun material yang diperlukan ketika praktikum, nah dibawah ini adalah alat dan material kebutuhan untuk bahan praktikum mata pelajaran kita kali ini: <br>
