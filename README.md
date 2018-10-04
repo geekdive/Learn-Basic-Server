@@ -47,3 +47,5 @@ Untuk materi ada pembahasan khusus dalam mata pelajaran kali ini, agar tidak mel
 - Pemrograman Database `MySQL (CLI)`
 - `Mengelola Database` & Menampilkan pada Website
 - `CRUD` (Create, Read, Update & Delete)
+
+go contribute by bariscode
